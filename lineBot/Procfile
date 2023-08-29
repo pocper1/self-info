@@ -1,0 +1,2 @@
+web: gunicorn self-intro:app –preload
+clock: python clock.py

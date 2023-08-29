@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+./Lib/*
+./Scripts/*
+./ngrok.exe
+./ffmpeg.exe
+./素材/*
+./__pycache__/*
+Lib/*
+Scripts/*
+__pycache__/line_chatbot_api.cpython-38.pyc
+ngrok.exe
+__pycache__/line_chatbot_api.cpython-38.pyc
